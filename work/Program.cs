@@ -8,13 +8,22 @@ class Program
 {
     static void Main()
     {
-               Console.WriteLine("Введите строки через запятую:");
+                Console.WriteLine("Введите строки через запятую:");
         string[] inputArray = Console.ReadLine().Split(',');
 
                 string[] resultArray = FilterStrings(inputArray);
 
-               Console.WriteLine("Результат:");
+                Console.WriteLine("Результат:");
         Console.WriteLine(string.Join(", ", resultArray));
     }
 
     static string[] FilterStrings(string[] inputArray)
+    {
+               int count = 0;
+        for (int i = 0; i < inputArray.Length; i++)
+        {
+            if (inputArray[i].Length <= 3)
+            {
+                count++;
+            }
+        }
