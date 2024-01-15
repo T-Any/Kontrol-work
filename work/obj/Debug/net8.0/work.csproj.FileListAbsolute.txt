@@ -1,0 +1,15 @@
+E:\Kontrolwork\work\bin\Debug\net8.0\work.exe
+E:\Kontrolwork\work\bin\Debug\net8.0\work.deps.json
+E:\Kontrolwork\work\bin\Debug\net8.0\work.runtimeconfig.json
+E:\Kontrolwork\work\bin\Debug\net8.0\work.dll
+E:\Kontrolwork\work\bin\Debug\net8.0\work.pdb
+E:\Kontrolwork\work\obj\Debug\net8.0\work.GeneratedMSBuildEditorConfig.editorconfig
+E:\Kontrolwork\work\obj\Debug\net8.0\work.AssemblyInfoInputs.cache
+E:\Kontrolwork\work\obj\Debug\net8.0\work.AssemblyInfo.cs
+E:\Kontrolwork\work\obj\Debug\net8.0\work.csproj.CoreCompileInputs.cache
+E:\Kontrolwork\work\obj\Debug\net8.0\work.sourcelink.json
+E:\Kontrolwork\work\obj\Debug\net8.0\work.dll
+E:\Kontrolwork\work\obj\Debug\net8.0\refint\work.dll
+E:\Kontrolwork\work\obj\Debug\net8.0\work.pdb
+E:\Kontrolwork\work\obj\Debug\net8.0\work.genruntimeconfig.cache
+E:\Kontrolwork\work\obj\Debug\net8.0\ref\work.dll
