@@ -8,4 +8,4 @@
 4.В методе FilterStrings подсчитывается количество подходящих строк, затем создается новый массив нужной длины. Затем строки из исходного массива, удовлетворяющие условиям, копируются в новый массив.
 5.Новый массив строк выводится на экран с использованием Console.WriteLine.
 
-Блок - схема находится в файле в ввиде ссылки https://www.figma.com/file/A9O1TYt2LdeXKkEV49vYq2/Untitled?type=whiteboard&node-id=16%3A66&t=y78PYRuZwv1L4U3u-1
+Блок - схема находится в файле по ссылки https://www.figma.com/file/A9O1TYt2LdeXKkEV49vYq2/Untitled?type=whiteboard&node-id=16%3A66&t=y78PYRuZwv1L4U3u-1
