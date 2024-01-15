@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Kontrolwork\\Kontrolwork.csproj",
-      "projectName": "Kontrolwork",
-      "projectPath": "E:\\Kontrolwork\\Kontrolwork.csproj",
+      "projectUniqueName": "E:\\Kontrolwork\\work\\work.csproj",
+      "projectName": "work",
+      "projectPath": "E:\\Kontrolwork\\work\\work.csproj",
       "packagesPath": "C:\\Users\\Таня\\.nuget\\packages\\",
-      "outputPath": "E:\\Kontrolwork\\obj\\",
+      "outputPath": "E:\\Kontrolwork\\work\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Таня\\AppData\\Roaming\\NuGet\\NuGet.Config"
